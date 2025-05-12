@@ -13,7 +13,6 @@ This is a simple implementation of the Simon Game, a classic memory game where p
   - `red.mp3`: Sound for the red button.
   - `wrong.mp3`: Sound for an incorrect answer.
   - `yellow.mp3`: Sound for the yellow button.
-- `.gitignore`: Specifies files and directories to be ignored by Git.
 
 ## How to Play
 
